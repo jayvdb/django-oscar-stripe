@@ -16,7 +16,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'django>=1.8',
-        'stripe==1.49.0',
-        'django-oscar==1.4'
+        'stripe>=1.49.0',
+        'django-oscar>=1.4'
         ],
 )
